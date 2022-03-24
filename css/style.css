@@ -3203,7 +3203,7 @@ h6 {
   margin-bottom: 0px;
 }
 .tabs_inner .tab-content .tab-pane .list li .media .d-flex {
-  padding-right: 100px;
+  padding-right: 75px;
 }
 .tabs_inner .tab-content .tab-pane .list li .media .d-flex p {
   color: rgba(255, 255, 255, 0.75);
@@ -3423,7 +3423,8 @@ h6 {
 
 .h_gallery_item {
   display: inline-block;
-  margin-bottom: 45px;
+  /* margin-bottom: 45px; */
+  margin: 0px 30px 45px 30px;
 }
 .h_gallery_item .g_img_item {
   position: relative;
